@@ -3,7 +3,7 @@
   - 👨🏾‍🎓 Sou estudante da rede FAETEC (Fundação de Apoio à Escola Técnica), lá estou fazendo ensino médio com técnico em Informática
   - 💻 Me aprimorando em Java e MySQL
   - 🔭 Em busca do primeiro estágio 
-  - 👨🏾 Ele/Dele
+
 
   ##
   
