@@ -5,7 +5,7 @@
   - 🔭 Em busca do primeiro estágio 
 
 
-  ## Minha tecnologias 
+  ## Minhas tecnologias 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pereira-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
