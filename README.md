@@ -5,7 +5,7 @@
   - 🔭 Em busca do primeiro estágio 
 
 
-  ##
+  ## Minha tecnologias 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pereira-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -13,7 +13,7 @@
   <img align="center" alt="Pereira-MySQL" height="30" width="75" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-  ## Minhas tecnologias
+  ## Para contato
 
 <div> 
   <a href="https://instagram.com/arthurper2eira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
