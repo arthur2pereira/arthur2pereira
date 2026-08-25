@@ -1,9 +1,10 @@
 ## Olá, eu sou o Arthur Pereira
 
-  - 👨🏾‍🎓 Sou estudante da rede FAETEC (Fundação de Apoio à Escola Técnica), lá estou fazendo ensino médio com técnico em Informática
-  - 💻 Me aprimorando em Java e MySQL
-  - 🔭 Em busca do primeiro estágio 
-
+- 🎓 Estudante de Ciência de Dados e Inteligência Artificial no Ibmec
+- 💻 Trabalho com Python (Data Science), Java, SQL/MySQL e redes de computadores
+- 🏫 Formado em Informática pela FAETEC
+- 🔨 Contribuí no desenvolvimento do PLJK, sistema de biblioteca escolar digital (banco de dados e aplicação)
+- 🔭 Em busca de estágio na área de dados
 
   ## Minhas tecnologias 
   
@@ -18,6 +19,6 @@
 <div> 
   <a href="https://instagram.com/arthurper2eira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthur.ppa2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-pedro-24336934a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/arthur-pedro-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
